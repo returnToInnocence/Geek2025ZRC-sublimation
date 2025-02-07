@@ -78,9 +78,9 @@
 
 ### 4.参考文献
 
-- [1]<font color='blue'>  Web应用框架</font>——[维基百科](https://zh.wikipedia.org/wiki/Web%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6)
-- [2]<font color='blue'>  什么是后端开发</font>——[亚马逊云科技](https://www.amazonaws.cn/knowledge/what-is-back-end-development/)
-- [3]<font color='blue'> 发布你的网站</font>——[MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website)
-- [4]<font color='blue'> 约定式提交</font>——[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [5]<font color='blue'> 后端学习资料</font>——[github](https://github.com/whx123/TianLuoBooks)
-- [6]<font color='blue'> 后端学习视频</font>——[稀土掘金](https://juejin.cn/post/7027743254846111752)
+- [1] [Web应用框架](https://zh.wikipedia.org/wiki/Web%E5%BA%94%E7%94%A8%E6%A1%86%E6%9E%B6) —— 维基百科
+- [2]  什么是后端开发</font>——[亚马逊云科技](https://www.amazonaws.cn/knowledge/what-is-back-end-development/)
+- [3] 发布你的网站</font>——[MDN Web Docs](https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Getting_started/Your_first_website/Publishing_your_website)
+- [4] 约定式提交</font>——[conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [5] 后端学习资料</font>——[github](https://github.com/whx123/TianLuoBooks)
+- [6] 后端学习视频</font>——[稀土掘金](https://juejin.cn/post/7027743254846111752)
