@@ -232,37 +232,157 @@
 
 ## CSS预处理器
 
+- [ ] Sass
+- [ ] PostCSS
+- [ ] Stylus
+- [ ] Less
+
 ## CSS框架
+
+- [ ] Antd
+- [ ] Element UI
+- [ ] Material UI
 
 ## 测试
 
+- [ ] 单元测试
+- [ ] 集成测试
+- [ ] 性能测试
+- [ ] Jest
+- [ ] Enzyme
+- [ ] Puppeteer
+
 ## 类型校验
+
+- [ ] TypeScript
+- [ ] Flow
 
 ## Linter&Formatter
 
+- [ ] ESLint
+- [ ] Prettier
+
 ## 代码规范
+
+- [ ] JavaScript Style Guide
+- [ ] CSS Style Guide
+- [ ] React Style Guide
 
 ## 性能
 
+- [ ] 性能指标
+  - [ ] FP
+  - [ ] FCP
+  - [ ] FMP
+  - [ ] TTI
+- [ ] RAIL模型
+- [ ] Lighthouse
+- [ ] DevTools
+- [ ] PWA
+- [ ] Service Worker
+- [ ] 懒加载
+
 ## 数据可视化
+
+- [ ] EChart
+- [ ] AntV
+- [ ] HighChart
 
 ## 动画
 
+- [ ] GSAP
+- [ ] Anime.js
+
 ## 跨端应用
+
+- [ ] React Native
+- [ ] Weex
+- [ ] Flutter
+- [ ] Hybrid
+- [ ] Filter
+- [ ] 调试
+  - [ ] Chrome DevTools
+  - [ ] Android Simulator
+  - [ ] iOS Simulator
 
 ## 小程序——感兴趣
 
+- [ ] 微信
+- [ ] 跨端解决方案
+  - [ ] Taro
+  - [ ] uni - app
+  - [ ] Chameleon
 
+## 桌面应用
+
+- [ ] Electron
+- [ ] NW.js
 
 ## 静态网站构建
 
+- [ ] Gatsby.js
+- [ ] Hugo
+- [ ] Hexo
+- [ ] Docusaurus
+- [ ] Next.js
+
 ## Web Assembly
 
-# 4.读物
+- [ ] Web Assembly基础概念，如二进制格式、与JavaScript的关系
+- [ ] 使用Emscripten将C/C++代码编译为Web Assembly
+- [ ] 在JavaScript中调用Web Assembly模块的方法
+
+# 4.计划时间
+
+## HTML和CSS
+
+```
+总时长：1天
+预期ddl：2025 2.13
+预计检查时间：2025 2.14全天选择
+```
+
+### JS
+
+```
+总时长：2+1+1+1+0.5+1.5+1=8天
+预计时间段:2025 2.14-2.19  2.22-2.24
+解释：20号-22号旅游，预计22号晚上到校
+预计检查时间：2025 2.25号全天协商时间
+```
+
+### 网络基础
+
+```
+总时长：3天
+预计时间段：2025 2.25-2.28
+不可抗力：搬寝室和上课，此时间段上午下午晚上都有课
+预计检查时间：2025 3.1号全天协调时间
+```
+
+### 浏览器
+
+```
+总时长：3天
+预计时间段：2025 3.1-3.3
+预计检查时间：2025 3.4号全天协调时间
+```
+
+### 前端框架——vue
+
+```
+总时长：7天
+预计时间段：2025 3.4-3.10
+预计检查时间：2025 3.10号全天协商时间
+```
+
+
+
+# 5.读物
 
 - [ ] https://martinfowler.com/articles/micro-frontends.html
 
-# 5.参考文献
+# 6.参考文献
 
 - [1] [前端学习路线](https://javabetter.cn/xuexiluxian/qianduan.html)——二哥
 - [2] [50个前端小项目](https://github.com/bradtraversy/50projects50days)——github
